@@ -5,4 +5,4 @@ function insert_Row() {
 	row.innerHTML = `<td>New Cell1</td> <td>New Cell2</td>`
 
 	table.insertBefore(row, table.firstChild);
-}
+} 
